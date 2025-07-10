@@ -2,24 +2,13 @@
   {
     "title": "Home",
     "path": "index.html",
-    "snippet": "Welcome to our homepage.",
+    "snippet": "yes",
     "favicon": "favicon.ico"
   },
   {
-    "title": "About Us",
-    "path": "about/index.html",
-    "snippet": "Learn more about our company.",
-    "favicon": "about/favicon.ico"
-  },
-  {
-    "title": "Contact",
-    "path": "contact.html",
-    "snippet": "Contact us using this form."
-  },
-  {
-    "title": "Blog Post: Regex in JS",
-    "path": "blog/regex-js.html",
-    "snippet": "A guide to using regular expressions in JavaScript.",
-    "favicon": "blog/favicon.ico"
+    "title": "404 Not Found",
+    "path": "404.html",
+    "snippet": "no",
+    "favicon": "favicon.ico"
   }
 ]
