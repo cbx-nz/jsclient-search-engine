@@ -1,1 +1,6 @@
 node_modules
+public/about
+public/blog
+public/media
+public/projects
+public/docs
